@@ -1,0 +1,26 @@
+comapre with what I had
+Read it to the extent I can summarize the 
+important pints
+{
+	thing I have thought so far
+	{
+		what are tags
+		using tag selector
+		all tags with the will respond
+		{
+			good to know ahead that 
+			there is something called selector
+			there's another called declaration
+
+			put some declaration
+			see the effet
+			then divide declarations into attriburte and value
+			treat colours
+
+		}
+	}
+	the general ideas of teaching should be applied applied now
+	then we re adjust 
+	create CSS notes and boom
+}
+We can create visual aids now that we have notes

@@ -1,0 +1,15 @@
+
+We could use output code from GUI genie to directly create xml or txt
+We could then use them directly to crete interface in another language
+
+While applying multiple layout use genie to create only one container
+{
+	composite layouts can work by combining the code from constituents:
+	If you focus on a single layout, you can focus on all the code you need to layout the constituents into it without worrying about how those constituents were laid out themselves.
+
+	This means you can separate/detach/modularize
+
+	If children containers are instantiated (and laid out) before parent containers, then there will be no problem of undefined components being used to layout a content into any container
+}
+
+Leave all layout xml files within projects, but composite layouts should be arraged using a tree (folders structure)

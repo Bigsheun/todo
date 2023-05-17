@@ -1,0 +1,69 @@
+@HCC lesson notes
+Weekly record
+reformat some system for BECE
+SS-2 web service note (find if there are any extra to teach)
+cololib pictures
+Adeoti scores
+
+CBT for ict Classes
+Put Data processing (notes and questions)
+
+
+keep the result in excel this time(Kayode's note)
+
+Write a code to converts Genie layout to text/xml
+Angular JS
+{
+	study and experiment
+	build up lecon
+}
+
+React JS + 
+{
+	initial study
+	stuff to download
+	intialize
+	build up lecon
+}
+create git for mails
+
+gui-genie + xml out => xml again{
+	group layout
+	table/gridbag layout
+	box  layout
+	grid layout
+}
+
+GTK:Show that by combining layout intelligently,
+you can create anything
+{
+	calculator
+	Math Problem list
+	Lily music note converter
+	A login panel
+}
+
+save IDE's
+GTK/Bison Pojects (re-install kali)
+{
+	FontWriter
+	Flexlayout
+	A new Glade parser
+	Math Problem list
+	MathML
+	Lily music note converter
+}
+
+Create more templates{
+	backend template exists
+	create others from the pictures downloaded
+	cololib pictures
+}
+
+
+
+==============================================================
+complete the layout-1 for softrays
+Antiv update on win 8 sys
+Mark Trade SS 2
+GTK headers: pc file trials

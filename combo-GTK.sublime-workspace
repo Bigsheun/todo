@@ -1,0 +1,1244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"b",
+				"banner"
+			],
+			[
+				"ba",
+				"banner-text"
+			],
+			[
+				"jut",
+				"justify-content"
+			],
+			[
+				"le",
+				"flex\tflex-box"
+			],
+			[
+				"dark",
+				"darkgray"
+			],
+			[
+				"fle",
+				"flex\tflex-box"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fl",
+				"flex\tflex-box"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"th",
+				"thick"
+			],
+			[
+				"jus",
+				"justify-items"
+			],
+			[
+				"mar",
+				"main-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"st",
+				"std-input"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"d",
+				"darkgrey"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ec",
+				"echo-post\techo-post"
+			],
+			[
+				"frea",
+				"foreach\tforeach …"
+			],
+			[
+				"Elem",
+				"ElementStack"
+			],
+			[
+				"Str",
+				"StrStack"
+			],
+			[
+				"Sax",
+				"SAXParser"
+			],
+			[
+				"Strin",
+				"StringStack"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"sw",
+				"swing"
+			],
+			[
+				"Fil",
+				"FileOutputStream"
+			],
+			[
+				"equa",
+				"equals()"
+			],
+			[
+				"sql",
+				"sqlite"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"Lett",
+				"Lettered_Options"
+			],
+			[
+				"Term",
+				"Term_1"
+			],
+			[
+				"Ter",
+				"Term_1"
+			],
+			[
+				"ter",
+				"Term_1"
+			],
+			[
+				"term",
+				"Term_1"
+			],
+			[
+				"ran",
+				"rand()"
+			],
+			[
+				"Term_",
+				"Term_1"
+			],
+			[
+				"Letter",
+				"LetterSymbols"
+			],
+			[
+				"Le",
+				"letter"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"debu",
+				"debug"
+			],
+			[
+				"fraction",
+				"fraction_2"
+			],
+			[
+				"pret",
+				"pretty"
+			],
+			[
+				"factio",
+				"fraction_1"
+			],
+			[
+				"Fra",
+				"Fraction"
+			],
+			[
+				"Fr",
+				"Fractions"
+			],
+			[
+				"explod",
+				"explode()"
+			],
+			[
+				"S",
+				"Str"
+			],
+			[
+				"in_arra",
+				"in_array()"
+			],
+			[
+				"An",
+				"Ans"
+			],
+			[
+				"D",
+				"Digit_2"
+			],
+			[
+				"SF",
+				"SF2_Option"
+			],
+			[
+				"_di",
+				"_digit_2"
+			],
+			[
+				"_dig",
+				"_digit_1"
+			],
+			[
+				"Fein",
+				"Feint_Option_1"
+			],
+			[
+				"Ele",
+				"Elements_stk"
+			],
+			[
+				"Elemen",
+				"ElementStack"
+			],
+			[
+				"St",
+				"Str"
+			],
+			[
+				"B",
+				"BoxHeight"
+			],
+			[
+				"Arr",
+				"ArrwDir"
+			],
+			[
+				"Wi",
+				"Width"
+			],
+			[
+				"Bo",
+				"BoxWidth"
+			],
+			[
+				"Mar",
+				"MarginLeft"
+			],
+			[
+				"Box",
+				"BoxHeight"
+			],
+			[
+				"A",
+				"ArrowWidth"
+			],
+			[
+				"Wid",
+				"width"
+			],
+			[
+				"R",
+				"RArrow"
+			],
+			[
+				"_",
+				"_X"
+			],
+			[
+				"Ar",
+				"ArcPoints"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"Margin",
+				"MarginTop"
+			],
+			[
+				"func",
+				"func\tfunction-decl"
+			],
+			[
+				"Top",
+				"MarginTop"
+			],
+			[
+				"Arro",
+				"ArrowWidth"
+			],
+			[
+				"H",
+				"Horiz"
+			],
+			[
+				"crea",
+				"createLine"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"new",
+				"new-tasks"
+			],
+			[
+				"P",
+				"PrjFolder"
+			],
+			[
+				"proje",
+				"projectFolder"
+			],
+			[
+				"Out",
+				"Output"
+			],
+			[
+				"U",
+				"UrlD"
+			],
+			[
+				"C",
+				"Code"
+			],
+			[
+				"Db",
+				"DbMgrFolder"
+			],
+			[
+				"subs",
+				"substr"
+			],
+			[
+				"Co",
+				"Conn"
+			],
+			[
+				"preg_",
+				"preg_replace"
+			],
+			[
+				"pa",
+				"package"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"pack",
+				"Package"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"db",
+				"db-tasks"
+			],
+			[
+				"boo",
+				"bookmarkFolder"
+			],
+			[
+				"Proje",
+				"projectFolder"
+			],
+			[
+				"N",
+				"Name"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"add",
+				"addSQLiteDb"
+			],
+			[
+				"cre",
+				"creat\th2-create-table"
+			],
+			[
+				"do",
+				"do_stuff"
+			],
+			[
+				"op",
+				"optionn"
+			],
+			[
+				"X",
+				"Xr"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"cr",
+				"create\tsqlite-table"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"e",
+				"exec"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pi",
+				"picture"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"cl",
+				"class_ext_image_map"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"ex",
+				"ext"
+			],
+			[
+				"md",
+				"mdpi_ratio"
+			],
+			[
+				"hd",
+				"hdpi_ratio"
+			],
+			[
+				"pre",
+				"pretty\tpretty-post-die"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"fun",
+				"func\tfunction-decl"
+			],
+			[
+				"dat",
+				"dat2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/bigsheun/Programming/C/ComboGTK/Makefile",
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Project-folders.txt",
+			"settings":
+			{
+				"buffer_size": 1773,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "plan.txt",
+			"settings":
+			{
+				"buffer_size": 669,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/flex-bison.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Ant.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ST:",
+				"ST: Execute"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 245.0,
+		"history":
+		[
+			"live_server_start",
+			"window.run_command(\"open_url\")",
+			"window.run_command(\"run_php\")",
+			"window.run_command(\"open_url\")",
+			"window().run_command(\"open_url\")",
+			"window",
+			"self",
+			"run_command(\"open_url\")",
+			"echo",
+			"path",
+			"dir",
+			"clear",
+			"dir",
+			"pwd",
+			".",
+			"cls",
+			"node",
+			"php"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bigsheun/Programming/C/ComboGTK"
+	],
+	"file_history":
+	[
+		"/home/bigsheun/.config/sublime-text/Packages/todo/Project-folders.txt",
+		"/home/bigsheun/.config/sublime-text/Packages/todo/Todo-list.txt",
+		"/home/bigsheun/Programming/C/ComboGTK/Permutate.c",
+		"/home/bigsheun/.config/sublime-text/Packages/todo/plan.txt",
+		"/usr/local/lib/x86_64-linux-gnu/pkgconfig/gtk+-2.0.pc",
+		"/usr/local/lib/x86_64-linux-gnu/pkgconfig/pkgconfig.pc",
+		"/home/bigsheun/Programming/C/ComboGTK/Permutate.h",
+		"/home/bigsheun/Programming/C/ComboGTK/Makefile",
+		"/home/bigsheun/Programming/C/ComboGTK/*.c",
+		"/home/bigsheun/.profile",
+		"/home/bigsheun/profile",
+		"/usr/local/lib/x86_64-linux-gnu/pkgconfig.pc",
+		"/home/bigsheun/Downloads/GTK/pkgconfig/cairo.pc",
+		"/home/bigsheun/Documents/work/p-lesson/programming-lesson/layout-1/css/style.css",
+		"/home/bigsheun/Documents/work/p-lesson/programming-lesson/layout-1/index.html",
+		"/opt/lampp/htdocs/ict-classes/download.php",
+		"/home/bigsheun/Downloads/gtk+-2.0.pc.in",
+		"/home/bigsheun/Documents/books/GTK+/pc-files/gtk+-2.0.pc",
+		"/home/bigsheun/Documents/work/p-lesson/programming-lesson/layout-1/css/new-style.css",
+		"/home/bigsheun/Desktop/index.html",
+		"/home/bigsheun/Documents/work/p-lesson/programming-lesson/layout-1/mails.txt",
+		"/home/bigsheun/all-packages.txt",
+		"/home/bigsheun/.config/sublime-text/Packages/todo/Diary.txt",
+		"/home/bigsheun/Documents/backup/files.txt",
+		"/home/bigsheun/What is CSS.txt",
+		"/home/bigsheun/Documents/work/p-lesson/programming-lesson/herbal-tea/css/prototype.css",
+		"/home/bigsheun/.config/sublime-text/Packages/User/flex-box.sublime-snippet",
+		"/home/bigsheun/Documents/May-Spending.xlsx",
+		"/home/bigsheun/Programming/C/ComboGTK/layout-code/main-window.c",
+		"/home/bigsheun/Programming/C/ComboGTK/layout-code/entry-label.c",
+		"/home/bigsheun/Programming/C/ComboGTK/layout-code/buttons-chk.c",
+		"/home/bigsheun/Programming/C/ComboGTK/hello.c",
+		"/home/bigsheun/.cache/.fr-Nqv4t1/README.md",
+		"/home/bigsheun/Downloads/GTK/install-headers/contents.txt",
+		"/home/bigsheun/Downloads/GTK/install-headers/pkg-config.txt",
+		"/home/bigsheun/Downloads/GTK/contents.txt",
+		"/home/bigsheun/Programming/C/ffmpeg-3.2.19/create-mp4",
+		"/home/bigsheun/Programming/C/ffmpeg-3.2.19/create-avi",
+		"/home/bigsheun/Programming/C/ffmpeg-3.2.19/create-small-mp4.bat",
+		"/home/bigsheun/Programming/C/ffmpeg-3.2.19/create-mp4.bat",
+		"/home/bigsheun/Programming/C/ffmpeg-3.2.19/create-mp3",
+		"/home/bigsheun/Programming/C/ffmpeg-3.2.19/create-mp3.bat",
+		"/home/bigsheun/Programming/C/ffmpeg-3.2.19/create-avi.bat",
+		"/home/bigsheun/Programming/C/ComboGTK/errors.txt",
+		"/home/bigsheun/.config/sublime-text/90F5AE90362.txt",
+		"/home/bigsheun/Videos/Avatar_The_Way_of_Water_(2022)_HC-HDRip_(NetNaija.com).avi",
+		"/home/bigsheun/Documents/formula.txt",
+		"/home/bigsheun/.config/Brackets/window.ini",
+		"/home/bigsheun/.config/gtk-3.0/bookmarks",
+		"/home/bigsheun/Programming/angular/angular-exp-1/package-lock.json",
+		"/home/bigsheun/Desktop/Thoughts.txt",
+		"/home/bigsheun/Desktop/Todo-list.txt",
+		"/home/bigsheun/Desktop/think.txt",
+		"/home/bigsheun/Desktop/plan.txt",
+		"/home/bigsheun/bin/rtf-checker",
+		"/home/bigsheun/bin/jd-GUI/jd-gui.desktop",
+		"/home/bigsheun/bin/jd-GUI/README.md",
+		"/home/bigsheun/.local/share/applications/Gui-genie.desktop",
+		"/home/bigsheun/bin/gui-genie/Readme.txt",
+		"/home/bigsheun/Documents/work/p-lesson/programming-lesson/herbal-tea/index.html",
+		"/home/bigsheun/.local/share/applications/Krita.desktop",
+		"/home/bigsheun/bin/gui-genie/Gui-genie.desktop",
+		"/home/bigsheun/Desktop/styling/style.css",
+		"/home/bigsheun/Desktop/geez.glade",
+		"/home/bigsheun/Desktop/styling/think.txt",
+		"/home/bigsheun/Downloads/soom/dep.txt",
+		"/home/bigsheun/Downloads/JDK-14/install-path.txt",
+		"/home/bigsheun/Desktop/lesson-note.txt",
+		"/home/bigsheun/Desktop/Summary.txt",
+		"/home/bigsheun/Documents/work/p-lesson/programming-lesson/example-1/example-1.html",
+		"/home/bigsheun/Documents/work/p-lesson/programming-lesson/herbal-tea/css/main.css",
+		"/home/bigsheun/Documents/work/p-lesson/programming-lesson/herbal-tea/css/scroll-init.js",
+		"/opt/lampp/htdocs/front-end/modules/prototype/prototype.php",
+		"/opt/lampp/htdocs/front-end/css/main.css",
+		"/opt/lampp/htdocs/front-end/css/main.scss",
+		"/opt/lampp/htdocs/front-end/xml-page.xml",
+		"/opt/lampp/htdocs/front-end/modules/edit_tab/xml-tab.txt",
+		"/home/bigsheun/.config/kritarc",
+		"/home/bigsheun/.config/kritadisplayrc",
+		"/opt/lampp/htdocs/front-end/css/prototype.scss",
+		"/opt/lampp/htdocs/front-end/css/prototype.css",
+		"/opt/lampp/htdocs/front-end/xml-tab.txt",
+		"/opt/lampp/htdocs/front-end/css/fonts.scss",
+		"/home/bigsheun/Documents/GTK/remove-bad-guys.php",
+		"/home/bigsheun/Desktop/project-1/forms.html",
+		"/opt/lampp/htdocs/C_Ide/configure/index.php",
+		"/home/bigsheun/Desktop/Sublime Text is extensible via Python. Extending i",
+		"/home/bigsheun/.config/sublime-text/Packages/Packages/run-js/RunJs.py",
+		"/home/bigsheun/.config/sublime-text/Packages/Packages/OpenURL.py",
+		"/home/bigsheun/Documents/notes.txt",
+		"/home/bigsheun/Documents/Vibrant-teacher.txt",
+		"/home/bigsheun/.config/sublime-text/Packages/Packages/RunPhp/RunPhp.py",
+		"/home/bigsheun/Desktop/project-1/page2..html",
+		"/home/bigsheun/Desktop/project-1/index.html",
+		"/home/bigsheun/2",
+		"/home/bigsheun/.config/sublime-text/Packages/Packages/User/git-php-template.sublime-snippet",
+		"/home/bigsheun/Documents/GTK/list-files.txt",
+		"/media/bigsheun/32G/autorun.inf",
+		"/home/bigsheun/openfile",
+		"/opt/lampp/htdocs/ict-classes/downloads/CORELDRAW GRAPHICS SUITE X7 2 WIN64-XFORCE/Crack/install.txt",
+		"/home/bigsheun/X7",
+		"/home/bigsheun/SUITE",
+		"/home/bigsheun/GRAPHICS",
+		"/opt/lampp/htdocs/ict-classes/downloads/CORELDRAW",
+		"/home/bigsheun/WIN64-XFORCE/Crack/install.txt",
+		"/home/bigsheun/bin/gsq",
+		"/home/bigsheun/.bash_aliases",
+		"/home/bigsheun/.bashrc",
+		"/home/bigsheun/bin/clls",
+		"/home/bigsheun/bin/cdls",
+		"/home/bigsheun/.config/sublime-text/Packages/Default/Distraction Free.sublime-settings",
+		"/home/bigsheun/.config/sublime-text/Packages/User/Distraction Free.sublime-settings",
+		"/home/bigsheun/installed-packages.txt",
+		"/home/bigsheun/Desktop/Programming/C/gtk-examples/example-1.c",
+		"/home/bigsheun/Downloads/Brakets-Deb/brackets-dep.txt",
+		"/home/bigsheun/Downloads/Brackets-12-Deb/Brackets/DEBIAN/control",
+		"/home/bigsheun/Downloads/Brakets-Deb/Bracket-Fix/Brackets/DEBIAN/control",
+		"/home/bigsheun/Downloads/brackets-dep.txt",
+		"/home/bigsheun/Downloads/Bracket-Fix/Brackets/DEBIAN/control",
+		"/media/bigsheun/32G/GTK-path.txt",
+		"/usr/local/include/gtk/glib/gtypes.h",
+		"/home/bigsheun/Desktop/example-3.c",
+		"/home/bigsheun/Desktop/mnemonic.c",
+		"/home/bigsheun/Desktop/tooltip.c",
+		"/home/bigsheun/Desktop/icon.c",
+		"/home/bigsheun/Desktop/example-1.c",
+		"/home/bigsheun/Programming/C/ping/example.c",
+		"/home/bigsheun/Desktop/notes.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"program"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/bigsheun/Programming/C/ComboGTK/Makefile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Project-folders.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								994,
+								959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "plan.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SQLTools Result":
+	{
+		"height": 210.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 192.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 162.0
+	},
+	"output.exec":
+	{
+		"height": 193.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "combo-GTK.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cur",
+				"admin\\modules\\leagues\\Curl.php"
+			],
+			[
+				"php",
+				"server\\php0.php"
+			],
+			[
+				"hel",
+				"server\\helper.php"
+			],
+			[
+				"",
+				"server\\php0.php"
+			],
+			[
+				"pro_",
+				"modules\\login\\pro_login.php"
+			],
+			[
+				"lo",
+				"p_php\\login.php"
+			],
+			[
+				"p",
+				"process.php"
+			],
+			[
+				"setu",
+				"scripts\\setup-menu.js"
+			],
+			[
+				"ti",
+				"scripts\\Ti-Implement.js"
+			],
+			[
+				"setup",
+				"scripts\\setup-menu.js"
+			],
+			[
+				"sqli",
+				"scripts\\sqlite.js"
+			],
+			[
+				"product.j",
+				"scripts\\products.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"menu",
+				"scripts\\setup-menu.js"
+			],
+			[
+				"sess",
+				"scripts\\session.js"
+			],
+			[
+				"reg",
+				"registration.html"
+			],
+			[
+				"dst",
+				"DStructs.txt"
+			],
+			[
+				"dstr",
+				"DStructs.txt"
+			],
+			[
+				"regi",
+				"registration.html"
+			],
+			[
+				"se",
+				"scripts\\session.js"
+			],
+			[
+				"salesm",
+				"scripts\\SalesModel.js"
+			],
+			[
+				"sales",
+				"scripts\\ViewSales.js"
+			],
+			[
+				"discoun",
+				"js\\Discount.js"
+			],
+			[
+				"form",
+				"scripts\\FormController.js"
+			],
+			[
+				"disc",
+				"scripts\\DiscountModel.js"
+			],
+			[
+				"productm",
+				"scripts\\ProductModel.js"
+			],
+			[
+				"prod",
+				"scripts\\ProductModel.js"
+			],
+			[
+				"sq",
+				"scripts\\sqlite.js"
+			],
+			[
+				"produ",
+				"scripts\\ProductModel.js"
+			],
+			[
+				"sa",
+				"scripts\\Sales.js"
+			],
+			[
+				"d",
+				"scripts\\Discount.js"
+			],
+			[
+				"sal",
+				"scripts\\Sales.js"
+			],
+			[
+				"di",
+				"scripts\\Discount.js"
+			],
+			[
+				"dis",
+				"scripts\\Discount.js"
+			],
+			[
+				"pro",
+				"scripts\\products.js"
+			],
+			[
+				"mod",
+				"scripts\\ModuleListController2.js"
+			],
+			[
+				"disco",
+				"scripts\\DiscountModel.js"
+			],
+			[
+				"product.js",
+				"scripts\\products.js"
+			],
+			[
+				"for",
+				"scripts\\FormController.js"
+			],
+			[
+				"productlis",
+				"scripts\\ProductListController.js"
+			],
+			[
+				"not",
+				"napps\\classes\\NotificationManager.php"
+			],
+			[
+				"mail",
+				"napps\\classes\\MailManagement.php"
+			],
+			[
+				"gene",
+				"cgi-bin\\classes\\GeneralManager.php"
+			],
+			[
+				"cla",
+				"class.php"
+			],
+			[
+				"cart",
+				"cgi-bin\\classes\\CartManager.php"
+			],
+			[
+				"procre",
+				"proCreateCart.php"
+			],
+			[
+				"car",
+				"cgi-bin\\classes\\CartManager.php"
+			],
+			[
+				"it",
+				"cgi-bin\\classes\\ItemManager.php"
+			],
+			[
+				"ge",
+				"cgi-bin\\classes\\GeneralManager.php"
+			],
+			[
+				"l",
+				"cgi-bin\\classes\\LessonManager.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 325.0,
+		"last_filter": "dire",
+		"selected_items":
+		[
+			[
+				"dire",
+				"showDirectPProblem"
+			],
+			[
+				"",
+				"APPLICATION_ID"
+			],
+			[
+				"dete",
+				"detectClash"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

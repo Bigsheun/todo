@@ -1,0 +1,102 @@
+Sublime Text is extensible via Python. Extending is simply a matter of placing a python file under the Packages directory (For example C:\Documents and Settings\ username \Application Data\Sublime Text\Packages\User).
+
+Each python file within the Packages directory is automatically scanned for Plugins, and automatically reloaded when changed.
+
+To make a command that may be bound to a key, placed in a menu, etc, simply create a class extending sublimeplugin.TextCommand and override the run() method.
+
+To make a plugin that receives notification of file load, save, etc, create a class extending sublimeplugin.Plugin, and implement one or more of the event methods (onLoad, onPostSave, etc). Note that TextCommand and friends themselves extend from Plugin, and may receive events.
+
+When developing plugins, all syntax errors and print statements are directed to the console (accessible via Ctrl+~).
+
+Next step: Take a look at some of the examples, or have a look over the API reference.
+
+
+Rot13
+The plugin below will do a simple rot13 encoding on the selected text.
+
+After saving it to a file in Packages/User, you can run it via entering view.runCommand('rot13') in the console (accessible via Ctrl+~).
+
+import sublime, sublimeplugin
+
+class Rot13Command(sublimeplugin.TextCommand):
+    def run(self, view, args):
+        for region in view.sel():
+            if not region.empty():
+                # Get the selected text
+                s = view.substr(region)
+                # Transform it via rot13
+                s = s.encode('rot13')
+                # Replace the selection with transformed text
+                view.replace(region, s)
+Duplicate
+This defines a simple command, "duplicate" that duplicates the current line. To run, add this line to Default.sublime-keymap:
+
+<binding key="ctrl+alt+d" command="duplicate"/>
+
+(or type view.runCommand('duplicate') in the console.)
+
+import sublime, sublimeplugin
+
+# Extends TextCommand so that run() receives a View to modify.
+class DuplicateCommand(sublimeplugin.TextCommand):
+    def run(self, view, args):
+        # Walk through each region in the selection
+        for region in view.sel():
+            # Only interested in empty regions, otherwise they may span multiple
+            # lines, which doesn't make sense for this command.
+            if region.empty():
+                # Expand the region to the full line it resides on, excluding the newline
+                line = view.line(region)
+                # Extract the string for the line, and add a newline
+                lineContents = view.substr(line) + '\n'
+                # Add the text at the beginning of the line
+                view.insert(line.begin(), lineContents)
+Events
+This prints all incoming events out to the console.
+
+import sublime, sublimeplugin
+
+class EventDump(sublimeplugin.Plugin):
+    def onLoad(self, view):
+        print view.fileName(), "just got loaded"
+
+    def onPreSave(self, view):
+        print view.fileName(), "is about to be saved"
+
+    def onPostSave(self, view):
+        print view.fileName(), "just got saved"
+        
+    def onNew(self, view):
+        print "new file"
+
+    def onModified(self, view):
+        print view.fileName(), "modified"
+
+    def onActivated(self, view):
+        print view.fileName(), "is now the active view"
+
+    def onClose(self, view):
+        print view.fileName(), "is no more"
+
+    def onClone(self, view):
+        print view.fileName(), "just got cloned"
+Idle Watcher
+This calls the onIdle() method after the user hasn't made any changes to the buffer for 1 second.
+
+class IdleWatcher(sublimeplugin.Plugin):
+    pending = 0
+    
+    def handleTimeout(self, view):
+        self.pending = self.pending - 1
+        if self.pending == 0:
+            # There are no more queued up calls to handleTimeout, so it must have
+            # been 1000ms since the last modification
+            self.onIdle(view)
+
+    def onModified(self, view):
+        self.pending = self.pending + 1
+        # Ask for handleTimeout to be called in 1000ms
+        sublime.setTimeout(functools.partial(self.handleTimeout, view), 1000)
+
+    def onIdle(self, view):
+        print "No activity in the past 1000ms"

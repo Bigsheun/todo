@@ -1,0 +1,82 @@
+GUI-genie Desktop
+/home/bigsheun/.local/share/applications/Gui-genie.desktop
+/home/bigsheun/bin/gui-genie/GuiGenie.jar
+
+What is CSS: Draft
+/home/bigsheun/What is CSS.txt
+
+p-lesson layout-1: index.html
+/home/bigsheun/Documents/work/p-lesson/programming-lesson/layout-1/index.html
+
+mails:
+/home/bigsheun/Documents/work/p-lesson/programming-lesson/layout-1/mails.txt
+
+Herbal-Tea
+/home/bigsheun/Documents/work/p-lesson/programming-lesson/herbal-tea
+subl /home/bigsheun/Documents/work/p-lesson/programming-lesson/herbal-tea/Herbal-Tea.sublime-project
+
+Angular-Experiment
+/home/bigsheun/Programming/angular/angular-exp-1
+
+cololib-prj-1
+/home/bigsheun/Pictures/Screenshots/colorlib
+/home/bigsheun/Pictures/Screenshots/colorlib/cololib.sublime-project
+
+Fonts
+/home/bigsheun/.local/share/fonts
+
+Programming Folder
+/home/bigsheun/Programming
+
+/opt/lampp/htdocs/
+/home/bigsheun/Programming/C/ComboGTK
+/home/bigsheun/Programming/C/ComboGTK/CombpGTK.sublime-project
+
+
+~/start-xampp
+http://localhost/php-IDE/
+http://localhost/python-IDE/
+http://localhost/php-mvc-IDE/
+http://localhost/java-ide/index.php
+
+Include path
+/usr/include/
+
+GTK-setup
+/home/bigsheun/Downloads/GTK
+/home/bigsheun/Downloads/GTK/install-headers/pkg-config.txt
+
+My GTK-pcfiles
+/home/bigsheun/Documents/books/GTK+/pc-files
+/home/bigsheun/Downloads/GTK/pkgconfig/
+/usr/lib/x86_64-linux-gnu/pkgconfig
+
+pkg-config paths:
+pkg-config --variable pc_path pkg-config | tr ':' '\n'
+
+/usr/local/lib/x86_64-linux-gnu/pkgconfig
+(ds not exist)/x86_64-linux-gnu/pkgconfig
+/usr/local/lib (contains):
+nodejs  python2.7  python3.10  python3.9
+
+/usr/local/lib/pkgconfig
+/usr/local/lib/x86_64-linux-gnu/pkgconfig
+/usr/lib/x86_64-linux-gnu/pkgconfig
+/usr/lib/pkgconfig
+/usr/local/share/pkgconfig
+/usr/share/pkgconfig
+
+List of all packages:
+/home/bigsheun/all-packages.txt
+
+
+/home/bigsheun/Documents/stew.ods
+
+/home/bigsheun/.profile
+
+
+JavaLayout
+/home/bigsheun/Programming/Javaprograms/JavaLayout/
+/home/bigsheun/Programming/Javaprograms/JavaLayout/Design/Decisions.txt
+
+/home/bigsheun/Programming/C/ffmpeg-3.2.19
