@@ -67,3 +67,5 @@ complete the layout-1 for softrays
 Antiv update on win 8 sys
 Mark Trade SS 2
 GTK headers: pc file trials
+
+sudo /opt/lampp/manager-linux-x64.run

@@ -1,4 +1,11 @@
-
+copy htdocs/ict-classes into this system
+connect to switch
+setup network 40
+pull todo
+add commit and push
+MS word, corel 
+setup network for the new installs
+download and install office and corel
 write lesson notes for the data processing
 write lesson notes for CSS@last
 push up softray-lesson
